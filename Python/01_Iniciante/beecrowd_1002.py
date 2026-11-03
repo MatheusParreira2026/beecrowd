@@ -18,4 +18,8 @@ caso contrário, você receberá "Presentation Error".
 Link: https://judge.beecrowd.com/pt/problems/view/1002
 '''
 
+raio = float(input())
 
+area = 3.14159 * raio ** 2
+
+print(f"A={area:.4f}")
