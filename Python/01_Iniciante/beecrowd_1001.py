@@ -1,5 +1,6 @@
 '''
 beecrowd | 1001 | Extremamente Básico
+
 Descrição:
 Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B atribuindo
 o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo.
@@ -16,3 +17,10 @@ Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o
 
 Link: https://judge.beecrowd.com/pt/problems/view/1001
 '''
+
+A = int(input())
+B = int(input())
+
+X = A + B
+
+print(f"X = {X}")

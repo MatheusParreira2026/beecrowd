@@ -1,5 +1,6 @@
 '''
 beecrowd | 1000 | Hello World!
+
 Descrição:
 Bem-vindo ao beecrowd!
 
