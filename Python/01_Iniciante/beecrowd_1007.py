@@ -12,3 +12,10 @@ Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo a
 
 Link: https://judge.beecrowd.com/pt/problems/view/1007
 '''
+
+A = int(input())
+B = int(input())
+C = int(input())
+D = int(input())
+DIFERENCA = (A * B - C * D)
+print(f"DIFERENCA = {DIFERENCA}")
