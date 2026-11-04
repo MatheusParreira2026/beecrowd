@@ -17,4 +17,8 @@ imprimir o fim de linha após o resultado, caso contrário, você receberá "Pre
 Link: https://judge.beecrowd.com/pt/problems/view/1006
 '''
 
-
+A = float(input())
+B = float(input())
+C = float(input())
+media = ((A * 2) + (B * 3) + (C * 5)) / 10
+print(f"MEDIA = {media:.1f}")
